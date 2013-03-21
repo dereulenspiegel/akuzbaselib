@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">Akuz BaseLib</string>
+    <string name="default_error_message">An Error of the type {0} occured: {1}</string>
+    <string name="default_error_title">Sorry...</string>
+    <string name="newStringKey0"/>
+</resources>

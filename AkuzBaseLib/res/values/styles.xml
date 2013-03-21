@@ -1,0 +1,27 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AkuzBaseTheme" parent="Theme.Sherlock.Light.DarkActionBar">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    
+    <style name="AkuzBaseTheme.NoActionBar" parent="Theme.Sherlock.NoActionBar">
+        
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AkuzAppTheme" parent="AkuzBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="AkuzAppTheme.NoActionBar" parent="AkuzBaseTheme.NoActionBar">
+        
+    </style>
+
+</resources>
